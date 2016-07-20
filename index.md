@@ -3,10 +3,7 @@ layout: default
 title: Home
 ---
 
-<p class="message">
-  2016-2017学年 第一学期 暑期班
-</p>
+Welcome to Zhuobin's online math tutorials. The intent of this site is to provide math handouts and other materials for classes that I teach at ﻿[Jinan University](http://www.jnu.edu.cn/).
 
-- [线性代数](/archives/2016_fall_LinearAlgebra_S/lecture)
+<a href="mailto:{{ site.owner.email }}"> liang-teaching@outlook.com</a>
 
-[download](archives\2016_fall_LinearAlgebra_S\lectures\6_4.pdf)

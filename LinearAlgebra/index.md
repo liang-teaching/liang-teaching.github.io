@@ -1,14 +1,17 @@
 ---
-layout: lecture
+layout: page
 title: 线性代数
-permalink: \archives\2016_fall_LinearAlgebra_S\lecture
 ---
 
-## Handouts
 
-download
-测试数学
+<p class="message">
+  2016-2017学年 第一学期 暑修班
+</p>
 
+---
+---
+
+### 数学公式测试
 
 Inline formula, $\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$
 
@@ -22,4 +25,6 @@ E=mc^2
 
 Here \eqref{eq:1} is ...
 
-- [课件](lectures\6_4.pdf)
+### 文件下载测试
+
+[download](lectures\6_4.pdf)
