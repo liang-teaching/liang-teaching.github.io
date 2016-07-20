@@ -1,0 +1,53 @@
+# Dependencies
+markdown:         kramdown # redcarpet
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+
+highlighter:      rouge # The original theme use "pygments"
+
+# 设定 Permalinks 的取值
+# 如果 permalink: /:year/:month/:day/:title.html
+# 那么 post: 2014-10-19-slap-chop.md 最终输出的路径 URL 变成
+# /2014/10/19/slap-chop.html
+# 如果 permalink 的值为 pretty
+# 是指 /:categories/:year/:month/:day/:title/
+permalink:        pretty
+
+# Since v3.0, permalinks for pages in subfolders must be relative to the site source directory, 
+# not the parent director
+# relative_permalinks: true 
+
+# Setup
+title:            MATH NOTES
+tagline:          # 'A Jekyll theme'
+description:      # 'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+
+#Your site's domain goes here. Leave localhost server or blank when working locally.
+url:              
+baseurl:          /
+
+author:
+  name:           'zbl'
+  url:            # https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+
+#
+gems:
+  - jekyll-paginate # Add this if these happens that "Deprecation: You appear to have pagination turned on, but you haven't included the `jekyll-paginate` gem. Ensure you have `gems: [jekyll-paginate]` in your configuration file. ""
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Asia/Shanghai
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md"]
