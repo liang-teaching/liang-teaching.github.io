@@ -53,6 +53,6 @@ Here \eqref{eq:1} is ...
 
 ### 文件下载测试
 
-[download](lectures\6_4.pdf)
+[download](lectures\1_1.pdf)
 
 ---
