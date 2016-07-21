@@ -33,7 +33,7 @@ title: 线性代数（3学分）
 
 ---
 
-<a href="Misc\disqus" target="_blank">留言板</a>
+<a href="Misc\disqus" target="_blank">进入留言板</a>
 
 ---
 
