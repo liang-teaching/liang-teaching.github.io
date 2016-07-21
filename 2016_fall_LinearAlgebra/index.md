@@ -26,7 +26,7 @@ title: 线性代数（3学分）
 
 |        | 课件 | 作业 | 解答 |	备注 |
 |:--------:|:------:|:------:|:------:|:------:|
-| 第一周 |  <a href="lectures/1_1.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW/HW_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW_sol/HW_sol_01.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" target="_blank"></i></a>    |  <a href="Misc/test_rmk" target="_blank"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>   |
+| 第一周 |  <a href="lectures/1_1.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW/HW_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW_sol/HW_sol_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="Misc/test_rmk" target="_blank"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>   |
 | 第二周 |      |      |      |      |
 | 第三周 |      |      |      |      |
 |       |      |      |      |      |
