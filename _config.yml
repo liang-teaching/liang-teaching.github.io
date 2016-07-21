@@ -8,7 +8,7 @@ highlighter:      rouge # The original theme use "pygments"
 # /2014/10/19/slap-chop.html
 # 如果 permalink 的值为 pretty
 # 是指 /:categories/:year/:month/:day/:title/
-permalink:        pretty
+permalink:        /:year/:month/:day/:title.html
 
 # Since v3.0, permalinks for pages in subfolders must be relative to the site source directory, 
 # not the parent director
@@ -24,6 +24,7 @@ baseurl:          /
 author:
   name:           'zbl'
   url:            #https://twitter.com/mdo
+  email:          teach-liang@outlook.com
 
 paginate:         5  #"I couldn't find an index.html"
 
@@ -39,5 +40,12 @@ gems:
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai
+future:      true
 
-exclude: ["Gemfile", "Gemfile.lock", "README.md"]
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "run_jekyll.md"]
+
+# Google services, used in _includes\head.html
+google_analytics_id: UA-80871947-1
+
+# Disqus, used _layouts\post.html
+disqus_shortname: liangteaching

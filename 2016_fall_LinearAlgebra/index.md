@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 线性代数
+title: 线性代数（3学分）
 ---
 
 
@@ -10,25 +10,38 @@ title: 线性代数
 
 ---
 
-- __时间__ : 2016/08/17-2016/08/25，上午09:00-11:35（三节），下午02:00-4:35（三节）
-- __地点__ : 南校区图书馆负一层会议厅
-- __班号__ : 20171S030
+### 课程信息
+
+- __考试时间__ : _2016/08/15，14:30-16:20_
+- __总评成绩__ : 考试成绩×70% + 平时成绩×30% [^exam]
+- __上课时间__ : 2016/08/17-2016/08/25，上午09:00-11:35（三节），下午02:00-4:35（三节）
+- __上课地点__ : 南校区图书馆负一层会议厅
+- __上课班号__ : 20171S030
+
+[^exam]: _推论：卷面成绩小于43分者需重修。_
 
 ---
 
-|        | 课件 | 作业 | 解答 |
-|:--------:|:------:|:------:|:------:|
-| 第一周 |  <a href="lectures/6_4.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |      |
-| 第二周 |      |      |      |
-| 第三周 |      |      |      |
+### 课程资料
+
+|        | 课件 | 作业 | 解答 |	备注 |
+|:--------:|:------:|:------:|:------:|:------:|
+| 第一周 |  <a href="lectures/1_1.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW/HW_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW_sol/HW_sol_01.pdf"><i class="fa fa-file-pdf-o" aria-hidden="true" target="_blank"></i></a>    |  <a href="Misc/test_rmk" target="_blank"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>   |
+| 第二周 |      |      |      |      |
+| 第三周 |      |      |      |      |
+|       |      |      |      |      |
+
+---
+
+<a href="{{site.url}}/2016/08/15/disqus" target="_blank">留言板</a>
 
 ---
 
 ### 数学公式测试
 
-Inline formula, $\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$
+Inline equations, $\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$
 
-displayed formula, 
+displayed equations, 
 
 $$\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$$
 
@@ -41,3 +54,5 @@ Here \eqref{eq:1} is ...
 ### 文件下载测试
 
 [download](lectures\6_4.pdf)
+
+---
