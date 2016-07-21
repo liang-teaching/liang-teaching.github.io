@@ -33,7 +33,7 @@ title: 线性代数（3学分）
 
 ---
 
-<a href="{{site.url}}/2016/08/15/disqus" target="_blank">留言板</a>
+<a href="Misc\disqus" target="_blank">留言板</a>
 
 ---
 
@@ -54,5 +54,9 @@ Here \eqref{eq:1} is ...
 ### 文件下载测试
 
 [download](lectures\1_1.pdf)
+
+### post
+
+<a href="{{site.url}}/2016/08/15/post-title" target="_blank">留言板</a>
 
 ---
