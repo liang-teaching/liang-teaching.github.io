@@ -26,10 +26,10 @@ title: 线性代数（3学分）
 
 |        |        | 课件 | 作业 | 解答 |	备注 |
 |:--------:|:--------|:------:|:------:|:------:|:------:|
-| 第一周 | 二三阶行列式 |  <a href="lectures/1_1.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW/HW_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="HW_sol/HW_sol_01.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="Misc/test_rmk" target="_blank"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>   |
-| 第二周 |        |      |      |      |      |
-| 第三周 |        |      |      |      |      |
-|       |        |      |      |      |      |
+|  | 1.1 二三阶行列式 |  <a href="lectures/1_1_二阶三阶行列式.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 1.2 行列式的性质 |  <a href="lectures/1_2_行列式的性质.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 1.3 行列式的展开 |  <a href="lectures/1_3_行列式的展开.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 1.4 行列式的几何意义 |  <a href="lectures/1_4_行列式的几何意义.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 
 ---
 
@@ -37,26 +37,5 @@ title: 线性代数（3学分）
 
 ---
 
-### 数学公式测试
-
-Inline equations, $\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$
-
-displayed equations, 
-
-$$\left( \frac{x}{\sqrt{x^2 + 1}}\right)^\prime$$
-
-\begin{equation}\label{eq:1}
-E=mc^2
-\end{equation}
-
-Here \eqref{eq:1} is ...
-
-### 文件下载测试
-
-[download](lectures\1_1.pdf)
-
-### post
-
-<a href="{{site.url}}/2016/08/15/post-title" target="_blank">留言板</a>
 
 ---
