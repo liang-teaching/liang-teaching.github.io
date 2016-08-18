@@ -32,6 +32,8 @@ title: 线性代数（3学分）
 |  | 1.2 行列式的性质 |  <a href="lectures/1_2_行列式的性质.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 1.3 行列式的展开 |  <a href="lectures/1_3_行列式的展开.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 1.4 行列式的几何意义 |  <a href="lectures/1_4_行列式的几何意义.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 2.1 矩阵的概念 |  <a href="lectures/2_1_矩阵的概念.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 2.2 矩阵的运算 |  <a href="lectures/2_2_矩阵的运算.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 
 ---
 
