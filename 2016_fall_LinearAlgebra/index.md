@@ -38,6 +38,11 @@ title: 线性代数（3学分）
 |  | 2.4 逆矩阵 |  <a href="lectures/2_4_逆矩阵.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 2.5 分块矩阵 |  <a href="lectures/2_5_分块矩阵.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 2.6 矩阵的初等变换 |  <a href="lectures/2_6_矩阵的初等变换.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 2.7 矩阵的秩 |  <a href="lectures/2_7_矩阵的秩.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 3.1 线性方程组的消元解法 |  <a href="lectures/3_1_线性方程组的消元解法.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 3.2 向量与向量组的线性组合 |  <a href="lectures/3_2_向量与向量组的线性组合.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 3.3 向量组的线性相关性 |  <a href="lectures/3_3_向量组的线性相关性.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+
 
 
 
