@@ -13,6 +13,7 @@ title: 线性代数（3学分）
 ### 课程信息
 
 - __考试时间__ : _2016/08/25，14:30-16:20_
+- __考试地点__ : N414
 - __总评成绩__ : 考试成绩×70% + 平时成绩×30% [^exam]
 - __上课时间__ : 2016/08/17-2016/08/25，上午09:00-11:35（三节），下午14:00-16:35（三节）
 - __上课地点__ : 南校区图书馆负一层会议厅
@@ -45,6 +46,8 @@ title: 线性代数（3学分）
 |  | 3.4 向量组的秩 |  <a href="lectures/3_4_向量组的秩.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 3.5 线性方程组解的结构 |  <a href="lectures/3_5_线性方程组解的结构.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 4.1 矩阵的特征值与特征向量 |  <a href="lectures/4_1_矩阵的特征值与特征向量.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 4.2 相似矩阵与矩阵对角 |  <a href="lectures/4_2_相似矩阵与矩阵对角.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 4.3 实对称矩阵的特征值和特征向量 |  <a href="lectures/4_3_实对称矩阵的特征值和特征向量.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 
 
 
