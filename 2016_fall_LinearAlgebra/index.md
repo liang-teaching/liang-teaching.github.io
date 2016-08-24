@@ -49,6 +49,8 @@ title: 线性代数（3学分）
 |  | 4.1 矩阵的特征值与特征向量 |  <a href="lectures/4_1_矩阵的特征值与特征向量.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 4.2 相似矩阵与矩阵对角 |  <a href="lectures/4_2_相似矩阵与矩阵对角.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
 |  | 4.3 实对称矩阵的特征值和特征向量 |  <a href="lectures/4_3_实对称矩阵的特征值和特征向量.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 5.1 + 5.2 二次型与对称矩阵 |  <a href="lectures/5_1_5_2_二次型与对称矩阵.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
+|  | 5.3 二次型与对称矩阵的正定性 |  <a href="lectures/5_3_二次型与对称矩阵的正定性.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |  <a href="Misc/5_3_rmk" target="_blank"><i class="fa fa-thumb-tack" aria-hidden="true"></i></a>   |
 
 
 
