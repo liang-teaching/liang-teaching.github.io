@@ -28,7 +28,7 @@ title: 线性代数（3学分）
 ---
 
 <p class="message">
-考试已经结束！这是试题的答案<a href="lectures/Linear_Algebra.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。
+考试已经结束！这是试题的答案 <a href="lectures/Linear_Algebra.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。
 
 以下是考试成绩前三名同学：葛紫薇（87），何春婵（86），吴柯逸（86）。很不错！
 </p>
