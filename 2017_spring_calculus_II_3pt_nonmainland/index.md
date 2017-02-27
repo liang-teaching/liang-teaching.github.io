@@ -24,16 +24,28 @@ title: 微积分II（3学分，外招）
 
 ---
 
+### 作业
+
+__交作业时间__ :第3，7，9，11，13，15周上课时
+
+
+|        |   周次     | 1 | 2 | 3 |	4 |
+|:--------:|----:|:------:|:------:|:------:|:------:|
+|		|	__作业__ |	<a href="HW/HW_微积分II_第01周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|		|		|		|
+
+
+---
+
 ### 课程资料
 
-|        |        | 课件 [^Remark] | 作业 | 解答 |	备注 |
-|:--------:|:--------|:------:|:------:|:------:|:------:|
-|  | 5.1 不定积分的概念与性质 |  <a href="lectures/5_1_不定积分的概念与性质_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
-|  | 5.2 基本积分表 |  <a href="lectures/5_2_基本积分表_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |     |
-|  | 5.3 换元积分法 |  <a href="lectures/5_3_换元积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |     |
-|  |  |      |      |     |     |
+|        |        | 课件 [^Remark] | 备注 |
+|:--------:|:--------|:------:|:------:|
+|  | 5.1 不定积分的概念与性质 |  <a href="lectures/5_1_不定积分的概念与性质_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 5.2 基本积分表 |  <a href="lectures/5_2_基本积分表_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  |
+|  | 5.3 换元积分法 |  <a href="lectures/5_3_换元积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  |  |      |    |
 
-__交作业时间__ :第3，5，7，9，11，13，15周上课时
+
 
 [^Remark]: 欢迎指出课件中的错误。更新课件后，不另行通知。
 
