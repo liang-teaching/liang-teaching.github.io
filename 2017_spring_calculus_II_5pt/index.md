@@ -29,7 +29,7 @@ __交作业时间__ :第3，7，9，11，13，15周，周三上课时
 
 |        |    周次    | 1 | 2 | 3 |	4 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|
-|	| __作业__ 	|	|	|	|	|
+|	| __作业__ 	|	coming soon... |	|	|	|
 
 
 ---
@@ -41,6 +41,7 @@ __交作业时间__ :第3，7，9，11，13，15周，周三上课时
 |:--------:|:--------|:------:|:------:|
 |  | 7.1 微分方程概念 |  <a href="lectures/07_a_微分方程概念_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
 |  | 7.2 一阶微分方程 |  <a href="lectures/07_b_一阶微分方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
+|  | 7.3 可降阶微分方程 | <a href="lectures/07_c_可降阶微分方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
 |  |  |      |      |
 
 
