@@ -27,7 +27,7 @@ baseurl:          /
 author:
   name:           'zbl'
   url:            #https://twitter.com/mdo
-  email:          teach-liang@outlook.com
+  email:          teach-liang AT outlook.com
 
 paginate:         5  #"I couldn't find an index.html"
 
