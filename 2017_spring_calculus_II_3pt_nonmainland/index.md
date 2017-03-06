@@ -26,12 +26,12 @@ title: 微积分II（3学分，外招）
 
 ### 作业
 
-__交作业时间__ :第3，7，9，11，13，15周上课时
+__交作业时间__ :第3，5，7，9，11，13，15周上课时
 
 
 |        |   周次     | 1 | 2 | 3 |	4 |
 |:--------:|----:|:------:|:------:|:------:|:------:|
-|		|	__作业__ |	<a href="HW/HW_微积分II_第01周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|		|		|		|
+|		|	__作业__ |	<a href="HW/HW_微积分II_第01周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW/HW_微积分II_第02周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|		|		|
 
 
 ---
