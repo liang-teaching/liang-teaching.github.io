@@ -29,7 +29,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 
 |        |    周次    | 01 | 02 | 03 |	04 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|
-|	| __作业__ 	|	<a href="HW/HW_01_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW/HW_02_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	|	|	|
+|	| __作业__ 	|	<a href="HW/HW_01_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW/HW_02_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	|	<a href="HW/HW_03_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |	|
 |	| __解答__ 	|	  |  	|	|	|
 
 ---
@@ -44,8 +44,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 |  | 7.4 二阶线性微分方程 | <a href="lectures/07_d_二阶线性微分方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       |
 |  | 8.1 向量的基本概念 | <a href="lectures/08_a_向量的基本概念_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 8.2 平面及其方程 | <a href="lectures/08_b_平面及其方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 8.3 空间直线及其方程 | <a href="lectures/08_c_空间直线及其方程_2017
-|:--------:|:--------|:------:|:------:|.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 8.3 空间直线及其方程 | <a href="lectures/08_c_空间直线及其方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  |  |      |      |
 
 
