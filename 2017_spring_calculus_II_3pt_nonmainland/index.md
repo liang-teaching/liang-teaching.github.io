@@ -29,10 +29,10 @@ title: 微积分II（3学分，外招）
 __交作业时间__ :第3，5，7，9，11，13，15周上课时
 
 
-|        |   周次     | 1 | 2 | 3 |	4 |
-|:--------:|----:|:------:|:------:|:------:|:------:|
-|		|	__作业__ |	<a href="HW/HW_微积分II_第01周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW/HW_微积分II_第02周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第03周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|		|
-|		|	__解答__ |	<a href="HW_sol/HW_微积分II_第01周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW_sol/HW_微积分II_第02周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|		|		|
+|        |   周次     | 1 | 2 | 3 |	4 | |
+|:--------:|----:|:------:|:------:|:------:|:------:|:------:|
+|		|	__作业__ |	<a href="HW/HW_微积分II_第01周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW/HW_微积分II_第02周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第03周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第04周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		| |
+|		|	__解答__ |	<a href="HW_sol/HW_微积分II_第01周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW_sol/HW_微积分II_第02周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|		|		| |
 
 
 ---
@@ -47,7 +47,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |  | 5.4 分部积分法 |  <a href="lectures/5_4_分部积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.1 & 6.2 多定积分的概念定义 |  <a href="lectures/6_1_6_2_多定积分的概念定义_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.3 定积分的性质 |  <a href="lectures/6_3_定积分的性质_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
-|  | 6.4 定积分的性质 |  <a href="lectures/6_4_微积分基本定理_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 6.4 微积分基本定理 |  <a href="lectures/6_4_微积分基本定理_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  |  |      |    |
 
 
