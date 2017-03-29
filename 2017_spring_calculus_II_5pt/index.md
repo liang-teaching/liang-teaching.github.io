@@ -27,9 +27,9 @@ title: 高等数学II（5学分，内招）
 
 __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 
-|        |    周次    | 01 | 02 | 03 |	04 |	|
+|        |    周次    | 01 | 02 | 03 |	04 | 05 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|
-|	| __作业__ 	|	<a href="HW/HW_01_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW/HW_02_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	|	<a href="HW/HW_03_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  	|	<a href="HW/HW_04_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	|	|
+|	| __作业__ 	|	<a href="HW/HW_01_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW/HW_02_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	|	<a href="HW/HW_03_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  	|	<a href="HW/HW_04_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	| <a href="HW/HW_05_高等数学II_5pt_内招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|
 |	| __解答__ 	|	<a href="HW_sol/HW_01_高等数学II_5pt_内招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |  	|	|	|	|
 
 ---
@@ -48,7 +48,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 |  | 8.3 空间直线及其方程 | <a href="lectures/08_c_空间直线及其方程_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 8.4 空间曲面及曲线 |  <a href="lectures/08_d_空间曲面及曲线_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      | |
 |  | 9.1 多元函数的基本概念 | <a href="lectures/09_a_多元函数的基本概念_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 9.2 偏导数与全微分 | <a href="lectures/009_b_偏导数与全微分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 9.2 偏导数与全微分 | <a href="lectures/09_b_偏导数与全微分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  |  |      |      | |
 
 
