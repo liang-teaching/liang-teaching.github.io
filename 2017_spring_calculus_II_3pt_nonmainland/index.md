@@ -49,6 +49,10 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |  | 6.3 定积分的性质 |  <a href="lectures/6_3_定积分的性质_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.4 微积分基本定理 |  <a href="lectures/6_4_微积分基本定理_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.5 定积分的换元积分法 |  <a href="lectures/6_5_定积分的换元积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 6.6 定积分的分部积分法 |  <a href="lectures/6_6_定积分的分部积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  |  |      |    |
+|  | 6.7 定积分的应用 |  <a href="lectures/6_7_定积分的应用_NM_2016.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  |  |      |    |
 |  |  |      |    |
 
 
