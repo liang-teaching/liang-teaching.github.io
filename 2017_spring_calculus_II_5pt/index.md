@@ -60,6 +60,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 |  | 9.7 多元函数的极值 | <a href="lectures/09_g_多元函数的极值_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 10.1 重积分的概念和性质 | <a href="lectures/10_a_重积分的概念和性质_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 10.2 二重积分的计算 | <a href="lectures/10_b_二重积分的计算_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 10.3 三重积分 | <a href="lectures/10_c_三重积分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  |  |      |      | |
 
 
