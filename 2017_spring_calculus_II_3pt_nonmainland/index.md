@@ -35,7 +35,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |		|	__解答__ |	<a href="HW_sol/HW_微积分II_第01周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW_sol/HW_微积分II_第02周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW_sol/HW_微积分II_第03周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW_sol/HW_微积分II_第05周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		| <a href="HW_sol/HW_微积分II_第04周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|
 |        |   周次     | 6 | 7 | 8 |	9 | 10|
 |		|	__作业__ |	<a href="HW/HW_微积分II_第06周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第07周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第08周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	<a href="HW/HW_微积分II_第09周_外招_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>		|	|
-|		|	__解答__ |	<a href="HW_sol/HW_微积分II_第06周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW_sol/HW_微积分II_第07周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	|	<a href="HW_sol/HW_微积分II_第08周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	|
+|		|	__解答__ |	<a href="HW_sol/HW_微积分II_第06周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW_sol/HW_微积分II_第07周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	<a href="HW_sol/HW_微积分II_第08周_外招_sol_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	 |	|
 
 
 ---
@@ -55,6 +55,8 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |  | 6.6 定积分的分部积分法 |  <a href="lectures/6_6_定积分的分部积分法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.7 定积分的应用 |  <a href="lectures/6_7_定积分的应用_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.8 广义函数与gamma函数 |  <a href="lectures/6_8_广义函数与gamma函数_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 8.4 二元函数偏导数与全微分 |  <a href="lectures/8_4_二元函数偏导数与全微分_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 8.5 多元复合函数与隐函数的求导法 |  <a href="lectures/8_5_多元复合函数与隐函数的求导法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  |  |      |    |
 |  |  |      |    |
 
