@@ -65,6 +65,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 |  | 11.2 对坐标的曲线积分 | <a href="lectures/11_b_对坐标的曲线积分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.3 积分路径，格林公式 | <a href="lectures/11_c_积分路径_格林公式_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.4 对面积的曲面积分 | <a href="lectures/11_d_对面积的曲面积分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.5 对坐标的曲面积分 | <a href="lectures/11_d_对坐标的曲面积分_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  |  |      |      | |
 
 
