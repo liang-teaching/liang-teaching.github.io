@@ -60,7 +60,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |  | 6.8 广义函数与gamma函数 |  <a href="lectures/6_8_广义函数与gamma函数_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 8.4 二元函数偏导数与全微分 |  <a href="lectures/8_4_二元函数偏导数与全微分_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 8.5 多元复合函数与隐函数的求导法 |  <a href="lectures/8_5_多元复合函数与隐函数的求导法_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
-|  |  |      |    |
+|  | 8.6 多元函数的极值 |   <a href="lectures/8_6_多元函数的极值_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |    |
 |  |  |      |    |
 
 
