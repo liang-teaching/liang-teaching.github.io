@@ -73,6 +73,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周，周三上课时
 |  | 12.1 常数项级数的概念和性质 | <a href="lectures/12_a_常数项级数的概念和性质_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 12.2 常数项级数的审敛法 | <a href="lectures/12_b_常数项级数的审敛法_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 12.3 幂级数 | <a href="lectures/12_c_幂级数_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 12.4 函数展开成幂级数 | <a href="lectures/12_d_函数展开成幂级数_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  |  |      |      | |
 
 
