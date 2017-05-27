@@ -13,10 +13,10 @@ title: 微积分II（3学分，外招）
 
 ### 课程信息
 
-- __上课时间__ : 周一6，7，8节
-- __上课地点__ : N219
-- __总评成绩__ : 考试成绩×60% + 平时成绩×40% [^exam]
-- __上课班号__ : 201725122
+- __时间__ : 周一6，7，8节
+- __地点__ : N219
+- __成绩__ : 总评成绩 = 考试成绩×60% + 平时成绩×40% [^exam]
+- __班号__ : 201725122
 
 [^exam]: 试试算一下：考试成绩至少为多少，总评成绩才可能及格 ^^
 
@@ -65,7 +65,7 @@ __交作业时间__ :第3，5，7，9，11，13，15周上课时
 |  | 9.1 微分方程的基本概念 |   <a href="lectures/9_1_微分方程的基本概念_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |    |
 |  | 9.2 一阶微分方程 |   <a href="lectures/9_2_一阶微分方程_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |    |
 |  | 9.3 差分方程的一般概念 |   <a href="lectures/9_3_差分方程的一般概念_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |    |
-|  |  |      |    |
+|  | （完）  |      |    |
 
 
 
