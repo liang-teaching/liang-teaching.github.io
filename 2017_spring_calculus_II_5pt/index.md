@@ -11,6 +11,11 @@ title: 高等数学II（5学分，内招）
 
 ---
 
+### 通知
+
+- 参考这里 <a href="HW_sol/exam_hint.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  的提示，继续思考这次测验的题目。下周（第16周）评讲。
+
+
 ### 课程信息
 
 - __时空__ : 周一3，4节（N324）；周三6，7，8节（N325）
