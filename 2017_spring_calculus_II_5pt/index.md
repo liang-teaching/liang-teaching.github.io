@@ -13,7 +13,7 @@ title: 高等数学II（5学分，内招）
 
 ### 通告
 
-- 参考这里 <a href="HW_sol/exam_hint.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  的提示，继续思考这次测验的题目。下周（第16周）评讲。这次小测，前三名的同学分别是：张艺瀞（46），樊撄宁（46），祖儿（42）。所有同学都要更加努力哦～
+- 参考这里 <a href="HW_sol/exam_hint.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  的提示，继续思考这次测验的题目。下周（第16周）评讲。这次小测，前三名的同学分别是：张艺瀞（46），樊撄宁（44），祖儿（40）。所有同学都要更加努力哦～
 
 
 ### 课程信息
