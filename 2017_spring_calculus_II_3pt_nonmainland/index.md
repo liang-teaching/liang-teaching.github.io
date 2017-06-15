@@ -13,7 +13,8 @@ title: 微积分II（3学分，外招）
 ### 通告
 
 - 答疑时间：6月28日，14:00-16:30，N325
-
+- 自测题2 <a href="HW/模拟.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+- 自测题 <a href="HW/模拟.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ，参考答案 <a href="HW_sol/模拟_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 ---
 
