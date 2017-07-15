@@ -12,6 +12,7 @@ title: 微积分II（3学分，外招）
 
 ### 通告
 
+- 期末考试成绩卷面成绩前四名：林楷竣（95分），劳卓铃（93分），黄泳尧（92分），林明翰（92分）。所有同学都要继续努力哦。 
 - 答疑时间：6月28日，14:00-16:30，N325
 - 自测题2 <a href="HW/模拟2.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 自测题 <a href="HW/模拟.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ，参考答案 <a href="HW_sol/模拟_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
