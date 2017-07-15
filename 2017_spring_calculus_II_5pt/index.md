@@ -13,6 +13,8 @@ title: 高等数学II（5学分，内招）
 
 ### 通告
 
+
+- 期末考试成绩卷面成绩前三名：郑若伟（95分），梁峰（89分），詹晓彦（89分）。所有同学都要继续努力哦。 
 - 答疑时间：6月28日，14:00-16:30，N325
 - 自测题 <a href="HW/exam15.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> （答案 <a href="HW_sol/15_solutions_hint.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ）
 - 参考这里 <a href="HW_sol/exam_hint.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  的提示，继续思考这次测验的题目。下周（第16周）评讲。这次小测，前三名的同学分别是：张艺瀞（46），樊撄宁（44），祖儿（40）。所有同学都要更加努力哦～
