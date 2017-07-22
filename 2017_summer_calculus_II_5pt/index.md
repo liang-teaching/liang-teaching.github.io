@@ -27,8 +27,8 @@ title: 高等数学II（5学分，暑期班）
 |  | 9.2 偏导数与全微分 | <a href="lectures/09_b_偏导数与全微分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
 |  | 9.3 多元复合函数的求导法则 | <a href="lectures/09_c_多元复合函数的求导法则_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="lectures/09_c_多元复合函数的求导法则_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     | |
 |  | 9.4 隐函数的求导公式 | <a href="lectures/09_d_隐函数的求导公式_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="lectures/09_d_隐函数的求导公式_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     | |
-|  | 9.5 方向导数与梯度 | <a href="lectures/09_e_方向导数与梯度_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
-|  | 9.6 多元函数微分学的几何应用 | <a href="lectures/09_f_多元函数微分学的几何应用_2017_s" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/09_f_多元函数微分学的几何应用_2017_s_p" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
+|  | 9.5 方向导数与梯度 | <a href="lectures/09_e_方向导数与梯度_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/09_e_方向导数与梯度_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     | |
+|  | 9.6 多元函数微分学的几何应用 | <a href="lectures/09_f_多元函数微分学的几何应用_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/09_f_多元函数微分学的几何应用_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
 |  | 9.7 多元函数的极值 |     |       | |
 
 
