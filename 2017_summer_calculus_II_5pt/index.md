@@ -42,6 +42,7 @@ title: 高等数学II（5学分，暑期班）
 |  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径_格林公式_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/11_c_积分路径_格林公式_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
 |  | 11.4 对面积的曲面积分 |  <a href="lectures/11_d_对面积的曲面积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
 |  | 11.5 对坐标的曲面积分 |  <a href="lectures/11_e_对坐标的曲面积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
+|  | 11.6 高斯公式斯托克斯公式 |  <a href="lectures/11_f_高斯公式斯托克斯公式_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
 
 
 
