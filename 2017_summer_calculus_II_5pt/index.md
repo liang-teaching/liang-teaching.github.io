@@ -37,9 +37,11 @@ title: 高等数学II（5学分，暑期班）
 |  | 10.1 重积分的概念和性质 |  <a href="lectures/10_a_重积分的概念和性质_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/10_a_重积分的概念和性质_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       | |
 |  | 10.2 二重积分的计算 |  <a href="lectures/10_b_二重积分的计算_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/10_b_二重积分的计算_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      | |
 |  | 10.3 三重积分 |  <a href="lectures/10_c_三重积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/10_c_三重积分_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
-|  | 11.1 对弧长的曲线积分 |  <a href="lectures/11_a_对弧长的曲线积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
-|  | 11.2 对坐标的曲线积分 |  <a href="lectures/11_b_对坐标的曲线积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
-|  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径_格林公式_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
+|  | 11.1 对弧长的曲线积分 |  <a href="lectures/11_a_对弧长的曲线积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="lectures/11_a_对弧长的曲线积分_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     | |
+|  | 11.2 对坐标的曲线积分 |  <a href="lectures/11_b_对坐标的曲线积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/11_b_对坐标的曲线积分_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
+|  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径_格林公式_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |   <a href="lectures/11_c_积分路径_格林公式_2017_s_p.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | |
+|  | 11.4 对面积的曲面积分 |  <a href="lectures/11_d_对面积的曲面积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
+|  | 11.5 对坐标的曲面积分 |  <a href="lectures/11_e_对坐标的曲面积分_2017_s.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
 
 
 
