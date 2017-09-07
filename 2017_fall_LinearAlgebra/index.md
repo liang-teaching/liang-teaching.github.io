@@ -75,10 +75,10 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周三上课时
 
 我会用到以下书籍备课：
 
-- Tom M. Apostol, **Linear Algebra, A First Course with Applicatiions to Differential Equations** （有中译本 ：《线性代数及其应用导论》）
+- Tom M. Apostol, *Linear Algebra, A First Course with Applicatiions to Differential Equations* （有中译本 ：《线性代数及其应用导论》）
 
 
-线性代数方面一些有用的计算程序：
+线性代数方面一些有用的在线计算程序：
 
 - [Matrix Calculator](https://matrixcalc.org/en/)
 - [Linear Algebra Toolkit](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
