@@ -47,8 +47,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周三上课时
 |  | 1.2 行列式的性质 |  <a href="lectures/1_2_行列式的定义与性质_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |     |
 |  | 1.3 行列式的展开 |    <a href="lectures/1_3_行列式的展开_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.4 克莱姆法则 |    <a href="lectures/1_4_克莱姆法则_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-|  | 1.5 行列式的公式表示 |        |     |
-|  | 1.6 行列式的几何意义 |       |     |
+|  | 1.5 行列式的几何意义 |   <a href="lectures/1_5_行列式的几何意义_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 1.6 行列式的公式表示 |       |     |
 |  | 2.1 矩阵的概念 |     |     |
 |  | 2.2 矩阵的运算 |        |     |
 |  | 2.3 特殊矩阵 |         |     |
