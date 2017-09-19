@@ -48,9 +48,9 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周三上课时
 |  | 1.3 行列式的展开 |    <a href="lectures/1_3_行列式的展开_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.4 克莱姆法则 |    <a href="lectures/1_4_克莱姆法则_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.5 行列式的几何意义 |   <a href="lectures/1_5_行列式的几何意义_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-|  | 1.6 行列式的公式表示 |       |     |
-|  | 2.1 矩阵的概念 |     |     |
-|  | 2.2 矩阵的运算 |        |     |
+|  | 1.6 行列式的公式表示 |   <a href="lectures/1_6_行列式的公式表示_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |     |
+|  | 2.1 矩阵的概念 | <a href="lectures/2_1_矩阵的概念_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 2.2 矩阵的运算 |  <a href="lectures/2_2_矩阵的运算_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       |     |
 |  | 2.3 特殊矩阵 |         |     |
 |  | 2.4 逆矩阵 |     |        |
 |  | 2.5 分块矩阵 |     |       |
