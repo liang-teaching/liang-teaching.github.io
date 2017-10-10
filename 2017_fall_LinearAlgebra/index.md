@@ -53,8 +53,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周三上课时
 |  | 2.2 矩阵的运算 |  <a href="lectures/2_2_矩阵的运算_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       |     |
 |  | 2.3 特殊矩阵 |   <a href="lectures/2_3_特殊矩阵_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      |     |
 |  | 2.4 逆矩阵 |  <a href="lectures/2_4_逆矩阵_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |        |
-|  | 2.5 分块矩阵 |     |       |
-|  | 2.6 矩阵的初等变换 |       |     |
+|  | 2.5 分块矩阵 |  <a href="lectures/2_5_分块矩阵_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       |
+|  | 2.6 矩阵的初等变换 |   <a href="lectures/2_6_矩阵的初等变换_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 2.7 矩阵的秩 |     |         |
 |  | 3.1 线性方程组的消元解法 |      |         |
 |  | 3.2 向量与向量组的线性组合 |     |        |
