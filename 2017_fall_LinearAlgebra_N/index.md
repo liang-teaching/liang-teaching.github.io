@@ -50,8 +50,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周二上课时
 |  | 1.6 行列式的公式表示 |  <a href="lectures/1_6_行列式的公式表示_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 2.1 矩阵的概念 | <a href="lectures/2_1_矩阵的概念_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |     |
 |  | 2.2 矩阵的运算 |   <a href="lectures/2_2_矩阵的运算_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-|  | 2.3 特殊矩阵 |         |     |
-|  | 2.4 逆矩阵 |     |        |
+|  | 2.3 特殊矩阵 |   <a href="lectures/2_3_特殊矩阵_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       |     |
+|  | 2.4 逆矩阵 |   <a href="lectures/2_4_逆矩阵_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |        |
 |  | 2.5 分块矩阵 |     |       |
 |  | 2.6 矩阵的初等变换 |       |     |
 |  | 2.7 矩阵的秩 |     |         |
