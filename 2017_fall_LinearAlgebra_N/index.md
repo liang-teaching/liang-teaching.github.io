@@ -59,7 +59,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周二上课时
 |  | 3.2 向量与向量组的线性组合 |  <a href="lectures/3_2_向量与向量组的线性组合_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |        |
 |  | 3.3 向量组的线性相关性 |  <a href="lectures/3_3_向量组的线性相关性_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |           |
 |  | 3.4 向量组的秩 |  <a href="lectures/3_4_向量组的秩_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |         |
-|  | 3.5 线性方程组解的结构 |    |          |
+|  | 3.5 线性方程组解的结构 | <a href="lectures/3_5_线性方程组解的结构_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |          |
 |  | 4.1 矩阵的特征值与特征向量 |     |        |
 |  | 4.2 相似矩阵与矩阵对角 |     |     |
 |  | 4.3 实对称矩阵的特征值和特征向量 |        |     |
