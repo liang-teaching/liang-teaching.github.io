@@ -60,8 +60,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周二上课时
 |  | 3.3 向量组的线性相关性 |  <a href="lectures/3_3_向量组的线性相关性_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |           |
 |  | 3.4 向量组的秩 |  <a href="lectures/3_4_向量组的秩_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |         |
 |  | 3.5 线性方程组解的结构 | <a href="lectures/3_5_线性方程组解的结构_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |          |
-|  | 4.1 矩阵的特征值与特征向量 |     |        |
-|  | 4.2 相似矩阵与矩阵对角 |     |     |
+|  | 4.1 矩阵的特征值与特征向量 |  <a href="lectures/4_1_矩阵的特征值与特征向量_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |        |
+|  | 4.2 相似矩阵与矩阵对角 | <a href="lectures/4_2_相似矩阵与矩阵对角_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |     |
 |  | 4.3 实对称矩阵的特征值和特征向量 |        |     |
 |  | 5.1 + 5.2 二次型与对称矩阵 |      |         |
 |  | 5.3 二次型与对称矩阵的正定性 |        |     |
