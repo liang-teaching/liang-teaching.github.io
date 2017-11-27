@@ -65,7 +65,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周三上课时
 |  | 4.2 相似矩阵与矩阵对角化 | <a href="lectures/4_2_相似矩阵与矩阵对角化_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 4.3 实对称矩阵的特征值和特征向量 |  <a href="lectures/4_3_实对称矩阵的特征值和特征向量_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      |     |
 |  | 5.1 二次型与对称矩阵 |    <a href="lectures/5_1_二次型与对称矩阵_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |         |
-|  | 5.2 二次型与对称矩阵的正定性 |        |     |
+|  | 5.2 二次型与对称矩阵的正定性 |    <a href="lectures/5_2_二次型与对称矩阵的正定性_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |     |
 
 ---
 
