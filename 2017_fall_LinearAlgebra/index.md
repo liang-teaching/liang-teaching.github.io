@@ -28,7 +28,7 @@ title: 线性代数（3学分，内招）
 ### 通告
 
 - 请准备好12月13日的小测
-- 12月06日课堂练习的解答 [这里](HW_sol/Ex_201706_sol.pdf)
+- 12月06日课堂练习的解答 <a href="HW_sol/Ex_20171206_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 ---
 
