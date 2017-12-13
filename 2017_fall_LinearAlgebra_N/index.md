@@ -25,6 +25,10 @@ title: 线性代数（3学分，外招）
 
 ---
 
+### 通告
+
+- 请做好这份题目 <a href="HW/sample.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> ，下节课（12月19日）评讲
+
 ---
 
 ### 作业
@@ -65,7 +69,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周二上课时
 |  | 4.3 实对称矩阵的特征值和特征向量 |   <a href="lectures/4_3_实对称矩阵的特征值和特征向量_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 5.1 二次型与对称矩阵 |  <a href="lectures/5_1_二次型与对称矩阵_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |         |
 |  | 5.2 二次型与对称矩阵的正定性 |   <a href="lectures/5_2_二次型与对称矩阵的正定性_NM_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-
+|  | |    （完）    |     |
 
 
 
