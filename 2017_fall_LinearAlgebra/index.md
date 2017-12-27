@@ -27,6 +27,7 @@ title: 线性代数（3学分，内招）
 
 ### 通告
 
+- 答疑时间：2018年1月3日，19:00-20:30，A604。
 - 小测的题目 <a href="HW/Exam_20171213.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。另外一份自测题 <a href="HW/sample2.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 这次小测最高分的是娄凯同学（74分）。下次考试就是期末考，各位都要准备好哦~
 - 请准备好12月13日的小测。
