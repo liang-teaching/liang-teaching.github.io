@@ -40,6 +40,6 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 
 |        |        | 课件 |	备注 |
 |:--------:|:--------|:-----:|:------:|
-|  |  7.1 微分方程概念 |  <a href="lectures/07_a_微分方程概念_2017" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  |  7.1 微分方程概念 |  <a href="lectures/07_a_微分方程概念_2017.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 
 ---
