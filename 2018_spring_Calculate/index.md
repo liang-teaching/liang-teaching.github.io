@@ -43,7 +43,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  |  7.1 微分方程概念 |  <a href="lectures/07_a_微分方程概念_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |	| 7.2 一阶微分方程	| <a href="lectures/07_b_一阶微分方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	|
 |  | 7.3 可降阶微分方程 |  <a href="lectures/07_c_可降阶微分方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |      | 
-|  | 7.4 二阶线性微分方程 | <a href="lectures/07_d_二阶线性微分方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |       | 
+|  | 7.4 二阶线性微分方程 |    |       | 
 |  | 8.1 向量的基本概念 | |      |    
 |  | 8.2 平面及其方程 | |      |      
 |  | 8.3 空间直线及其方程 |       |      |
