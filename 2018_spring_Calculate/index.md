@@ -45,8 +45,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 |  | 7.3 可降阶微分方程 |  <a href="lectures/07_c_可降阶微分方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |      | 
 |  | 7.4 二阶线性微分方程 |  <a href="lectures/07_d_二阶线性微分方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |       | 
 |  | 8.1 向量的基本概念 | <a href="lectures/08_a_向量的基本概念_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |    
-|  | 8.2 平面及其方程 | |      |      
-|  | 8.3 空间直线及其方程 |       |      |
+|  | 8.2 平面及其方程 | <a href="lectures/08_b_平面及其方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      
+|  | 8.3 空间直线及其方程 |  <a href="lectures/08_c_空间直线及其方程_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 8.4 空间曲面及曲线 |        | 	|
 |  | 9.1 多元函数的基本概念 |      |      |
 |  | 9.2 偏导数与全微分 |      |      |
