@@ -43,7 +43,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 5.1 不定积分的概念与性质 |  <a href="lectures/5_1_不定积分的概念与性质_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 5.2 基本积分表 |  <a href="lectures/5_2_基本积分表_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  |
 |  | 5.3 换元积分法 |  <a href="lectures/5_3_换元积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
-|  | 5.4 分部积分法 |     |    |
+|  | 5.4 分部积分法 |   <a href="lectures/5_4_分部积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |    |
 |  | 6.1 & 6.2 多定积分的概念定义 |      |    |
 |  | 6.3 定积分的性质 |      |    |
 |  | 6.4 微积分基本定理 |      |    |
