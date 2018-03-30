@@ -32,6 +32,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |        |    周次    | 01 | 02 | 03 |	04 | 05 | 06 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |	| __作业__ 	| <a href="HW/HW_微积分II_第01周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW/HW_微积分II_第02周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_微积分II_第03周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	|	|	|
+|   | __解答__    | <a href="HW_sol/HW_微积分II_第01周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |    |     |   |   |   |
 
 ---
 
