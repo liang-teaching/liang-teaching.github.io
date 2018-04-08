@@ -32,7 +32,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |        |    周次    | 01 | 02 | 03 |	04 | 05 | 06 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |	| __作业__ 	| <a href="HW/HW_微积分II_第01周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW/HW_微积分II_第02周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_微积分II_第03周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_微积分II_第04周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	|	|	|	|	|	|
-|   | __解答__    | <a href="HW_sol/HW_微积分II_第01周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |    |     |   |   |   |
+|   | __解答__    | <a href="HW_sol/HW_微积分II_第01周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_微积分II_第02周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |     |   |   |   |
 
 ---
 
@@ -47,8 +47,8 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 5.4 分部积分法 |   <a href="lectures/5_4_分部积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |    |
 |  | 6.1 & 6.2 定积分的概念定义 |  <a href="lectures/6_1_6_2_定积分的概念定义_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.3 定积分的性质 |  <a href="lectures/6_3_定积分的性质_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
-|  | 6.4 微积分基本定理 |      |    |
-|  | 6.5 定积分的换元积分法 |      |    |
+|  | 6.4 微积分基本定理 |  <a href="lectures/6_4_微积分基本定理_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 6.5 定积分的换元积分法 | <a href="lectures/6_5_定积分的换元积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 6.6 定积分的分部积分法 |      |    |
 |  | 6.7 定积分的应用 |      |    |
 |  | 6.8 广义函数与gamma函数 |      |    |
