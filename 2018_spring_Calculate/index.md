@@ -77,9 +77,10 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 
 ### 素材
 
-- 在线求解常微分方程的网页：[Ordinary Differential Equations Calculator
+- 在线科学计算器：[]()
+- 在线求解常微分方程：[Ordinary Differential Equations Calculator
 ](https://www.symbolab.com/solver/ordinary-differential-equation-calculator)
-- 在线求解（偏）导数的网页：[Derivative Calculator
+- 在线求解（偏）导数：[Derivative Calculator
 ](https://www.symbolab.com/solver/derivative-calculator/%5Cfrac%7B%5Cpartial%20%7D%7B%5Cpartial%20x%7D%5Cleft%28%5Csin%20%5Cleft%28x%5E2y%5E2%5Cright%29%5Cright%29?or=ex)
 
 ---
