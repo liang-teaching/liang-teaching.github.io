@@ -77,7 +77,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 
 ### 素材
 
-- 在线科学计算器：[]()
+- 在线科学计算器：[Desmos Scientific Calculator](https://www.desmos.com/scientific)
 - 在线求解常微分方程：[Ordinary Differential Equations Calculator
 ](https://www.symbolab.com/solver/ordinary-differential-equation-calculator)
 - 在线求解（偏）导数：[Derivative Calculator
