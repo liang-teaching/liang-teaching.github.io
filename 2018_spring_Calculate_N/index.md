@@ -49,9 +49,9 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 6.3 定积分的性质 |  <a href="lectures/6_3_定积分的性质_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.4 微积分基本定理 |  <a href="lectures/6_4_微积分基本定理_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 6.5 定积分的换元积分法 | <a href="lectures/6_5_定积分的换元积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
-|  | 6.6 定积分的分部积分法 |      |    |
-|  | 6.7 定积分的应用 |      |    |
-|  | 6.8 广义函数与gamma函数 |      |    |
+|  | 6.6 定积分的分部积分法 |  <a href="lectures/6_6_定积分的分部积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
+|  | 6.7 定积分的应用 |  6_7_定积分的应用_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
+|  | 6.8 广义函数与gamma函数 |  6_8_广义函数与gamma函数_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |    |
 |  | 8.4 二元函数偏导数与全微分 |      |    |
 |  | 8.5 多元复合函数与隐函数的求导法 |      |    |
 |  | 8.6 多元函数的极值 |      |    |
