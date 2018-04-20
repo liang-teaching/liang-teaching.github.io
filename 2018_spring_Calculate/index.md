@@ -57,7 +57,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 |  | 9.5 方向导数与梯度 |  <a href="lectures/09_e_方向导数与梯度_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 9.6 多元函数微分学的几何应用 |  <a href="lectures/09_f_多元函数微分学的几何应用_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       |      |
 |  | 9.7 多元函数的极值 |  <a href="lectures/09_g_多元函数的极值_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
-|  | 10.1 重积分的概念和性质 |      |      |
+|  | 10.1 重积分的概念和性质 | <a href="lectures/10_a_重积分的概念和性质_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 10.2 二重积分的计算 |      |      |
 |  | 10.3 三重积分 |       |      |
 |  | 11.1 对弧长的曲线积分 |       |      |
