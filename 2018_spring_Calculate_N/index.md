@@ -52,10 +52,10 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 6.6 定积分的分部积分法 |  <a href="lectures/6_6_定积分的分部积分法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 6.7 定积分的应用 |  <a href="lectures/6_7_定积分的应用_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 6.8 广义函数与gamma函数 |  <a href="lectures/6_8_广义函数与gamma函数_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |    |
-|  | 8.1  |  空间解析几何简介    | <a href="lectures/8_1_空间解析几何简介_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |
+|  | 8.1 空间解析几何简介    | <a href="lectures/8_1_空间解析几何简介_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  |
 |  | 8.2 多元函数的概念 | <a href="lectures/8_2_多元函数的概念_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 8.3 二元函数的极限与连续 | <a href="lectures/8_3_二元函数的极限与连续_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
-|  | 8.4 二元函数偏导数与全微分 |  <a href="lectures/8_4_二元函数偏导数与全微分_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
+|  | 8.4 二元函数偏导数与全微分 |  <a href="lectures/8_4_偏导数与全微分_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 8.5 多元复合函数与隐函数的求导法 |      |    |
 |  | 8.6 多元函数的极值 |      |    |
 |  | 8.7 二重积分 |      |    |
