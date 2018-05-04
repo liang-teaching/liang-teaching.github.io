@@ -32,7 +32,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |        |    周次    | 01 | 02 | 03 |	04 | 05 | 06 | 07 | 08 |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |	| __作业__ 	| <a href="HW/HW_微积分II_第01周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW/HW_微积分II_第02周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_微积分II_第03周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_微积分II_第04周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|<a href="HW/HW_微积分II_第05周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|	<a href="HW/HW_微积分II_第06周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW/HW_微积分II_第07周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW/HW_微积分II_第08周_外招_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |
-|   | __解答__    | <a href="HW_sol/HW_微积分II_第01周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_微积分II_第02周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_微积分II_第03周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | <a href="HW_sol/HW_微积分II_第04周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |  |   |  | |
+|   | __解答__    | <a href="HW_sol/HW_微积分II_第01周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_微积分II_第02周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_微积分II_第03周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    | <a href="HW_sol/HW_微积分II_第04周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW_sol/HW_微积分II_第05周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |  <a href="HW_sol/HW_微积分II_第06周_外招_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |  | |
 
 ---
 
@@ -56,7 +56,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 8.2 多元函数的概念 | <a href="lectures/8_2_多元函数的概念_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 8.3 二元函数的极限与连续 | <a href="lectures/8_3_二元函数的极限与连续_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 8.4 二元函数偏导数与全微分 |  <a href="lectures/8_4_偏导数与全微分_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
-|  | 8.5 多元复合函数与隐函数的求导法 |      |    |
+|  | 8.5 多元复合函数与隐函数的求导法 | <a href="lectures/8_5_多元复合函数与隐函数的求导法_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |    |
 |  | 8.6 多元函数的极值 |      |    |
 |  | 8.7 二重积分 |      |    |
 |  | 9.1 微分方程的基本概念 |      |    |
