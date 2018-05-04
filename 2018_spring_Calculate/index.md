@@ -60,7 +60,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 |  | 10.1 重积分的概念和性质 | <a href="lectures/10_a_重积分的概念和性质_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 10.2 二重积分的计算 |  <a href="lectures/10_b_二重积分的计算_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
 |  | 10.3 三重积分 | <a href="lectures/10_c_三重积分_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      |      |
-|  | 11.1 对弧长的曲线积分 |       |      |
+|  | 11.1 对弧长的曲线积分 |  <a href="lectures/11_a_对弧长的曲线积分_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 11.2 对坐标的曲线积分 |      |      |
 |  | 11.3 积分路径，格林公式 |      |      |
 |  | 11.4 对面积的曲面积分 |       |      |
