@@ -68,7 +68,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 |  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径_格林公式_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
 |  | 11.4 对面积的曲面积分 |   <a href="lectures/11_d_对面积的曲面积分_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
 |  | 11.5 对坐标的曲面积分 |   <a href="lectures/11_e_对坐标的曲面积分_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
-|  | 11.6 高斯公式、斯托克斯公式 |      |      |
+|  | 11.6 高斯公式、斯托克斯公式 |  <a href="lectures/11_f_高斯公式斯托克斯公式_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
 |  | 12.1 常数项级数的概念和性质 |     |      |
 |  | 12.2 常数项级数的审敛法 |      |      |
 |  | 12.3 幂级数 |     |      |
