@@ -80,6 +80,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 |  | 12.3 幂级数 |  <a href="lectures/12_c_幂级数_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |      |
 |  | 12.4 函数展开成幂级数 |  <a href="lectures/12_d_函数展开成幂级数_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |      |
 |  | 12.5 傅里叶级数 |  <a href="lectures/12_e_傅里叶级数_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
+
 （完）
 
 
