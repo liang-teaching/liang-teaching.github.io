@@ -96,6 +96,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周四上课时
 - 在线 2d/3d 画图
     - [CalcPlot3D](http://web.monroecc.edu/manila/webfiles/pseeburger/CalcPlot3D/)
     - [desmos](https://www.desmos.com/calculator/yrl1lft9tv)
+- 在线 Taylor 展开：[Taylor Series](https://www.symbolab.com/solver/taylor-maclaurin-series-calculator)
 
 ---
 
