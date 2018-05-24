@@ -63,7 +63,7 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 8.6 多元函数的极值 |   <a href="lectures/8_6_多元函数的极值_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |    |
 |  | 8.7 二重积分 |  <a href="lectures/8_7_二重积分_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>    |    |
 |  | 9.1 微分方程的基本概念 |  <a href="lectures/9_1_微分方程的基本概念_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>    |    |
-|  | 9.2 一阶微分方程 |      |    |
+|  | 9.2 一阶微分方程 |  <a href="lectures/9_2_一阶微分方程_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>    |    |
 |  | 9.3 差分方程的一般概念 |     |    |
 
 ---
