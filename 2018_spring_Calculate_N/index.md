@@ -66,4 +66,6 @@ __交作业时间__ : 第3，5，7，9，11，13，15周，周五上课时
 |  | 9.2 一阶微分方程 |  <a href="lectures/9_2_一阶微分方程_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>    |    |
 |  | 9.3 差分方程的一般概念 | <a href="lectures/9_3_差分方程的一般概念_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i>    |    |
 
+- 第14周课堂练习 <a href="HW/第14周课堂练习.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+
 ---
