@@ -27,7 +27,7 @@ title: 线性代数（3学分，内外招）
 
 ### 通告
 
-- 第2周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。
+- 第2周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。请下载小测的 *答题纸*  <a href="HW/Examsheet.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。记得每周带该答题纸上课。
 
 ---
 
@@ -45,12 +45,12 @@ title: 线性代数（3学分，内外招）
 
 |        |        | 课件 |	备注 |
 |:--------:|:--------|:-----:|:------:|
-|  | 1.1 二三阶行列式 |      |     |
-|  | 1.2 行列式的性质 |    |     |
-|  | 1.3 行列式的展开 |      |     |
-|  | 1.4 克莱姆法则 |      |     |
-|  | 1.5 行列式的几何意义 |     |     |
-|  | 1.6 行列式的公式表示 |    |     |
+|  | 1.1 二三阶行列式 | <a href="lectures/1_1_二三阶行列式_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 1.2 行列式的性质 | <a href="lectures/1_2_行列式的定义与性质_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |     |
+|  | 1.3 行列式的展开 | <a href="lectures/1_3_行列式的展开_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      |     |
+|  | 1.4 克莱姆法则 |  <a href="lectures/1_4_克莱姆法则_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 1.5 行列式的几何意义 | <a href="lectures/1_5_行列式的几何意义_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 1.6 行列式的公式表示 |  <a href="lectures/1_6_行列式的公式表示_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |     |
 |  | 2.1 矩阵的概念 |   |     |
 |  | 2.2 矩阵的运算 |      |     |
 |  | 2.3 特殊矩阵 |      |     |
@@ -69,6 +69,7 @@ title: 线性代数（3学分，内外招）
 |  | 5.1 二次型与对称矩阵 |    |         |
 |  | 5.2 二次型与对称矩阵的正定性 |      |     |
 
+注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
 ---
 
 ---
