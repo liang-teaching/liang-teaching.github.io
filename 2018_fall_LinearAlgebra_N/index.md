@@ -27,7 +27,7 @@ title: 线性代数（3学分，外招）
 
 ### 通告
 
-- 第2周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。请下载小测的 *答题纸*  <a href="HW/Examsheet.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。记得每周带该答题纸上课。
+- 第2周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。请打印小测的 *答题纸*  <a href="HW/Examsheet_NM.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。记得每周带该答题纸上课。
 
 ---
 
@@ -45,7 +45,7 @@ title: 线性代数（3学分，外招）
 
 |        |        | 课件 |	备注 |
 |:--------:|:--------|:-----:|:------:|
-|  | 1.1 二三阶行列式 | <a href="lectures/1_1_二三阶行列式_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 1.1 二三阶行列式 | <a href="lectures/1_1_二阶三阶行列式_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.2 行列式的性质 | <a href="lectures/1_2_行列式的定义与性质_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |     |
 |  | 1.3 行列式的展开 | <a href="lectures/1_3_行列式的展开_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>      |     |
 |  | 1.4 克莱姆法则 |  <a href="lectures/1_4_克莱姆法则_NM_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
@@ -69,7 +69,10 @@ title: 线性代数（3学分，外招）
 |  | 5.1 二次型与对称矩阵 |    |         |
 |  | 5.2 二次型与对称矩阵的正定性 |      |     |
 
+
 注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
+
+
 ---
 
 ### 素材
