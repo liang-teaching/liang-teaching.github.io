@@ -27,7 +27,7 @@ title: 线性代数（3学分，内外招）
 
 ### 通告
 
-- 第2周开始，第一节课前5分钟为小测。小测有1~2题，内容在上一周作业的题目里挑选。小测将进行评分。
+- 第2周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。
 
 ---
 
@@ -77,7 +77,7 @@ title: 线性代数（3学分，内外招）
 
 参考书籍：
 
-- D. Lay, S. Lay & J. McDonald, 线性代数及其应用（中译本）,[这里](http://202.116.13.244/search~S1*chx?/X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D/X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D&SUBKEY=%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/25%2C287%2C287%2CB/frameset&FF=X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D&27%2C27%2C)
+- D. Lay, S. Lay & J. McDonald, 线性代数及其应用（中译本）, [这里](http://202.116.13.244/search~S1*chx?/X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D/X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D&SUBKEY=%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E5%8F%8A%E5%85%B6%E5%BA%94%E7%94%A8/25%2C287%2C287%2CB/frameset&FF=X{u7EBF}{u6027}{u4EE3}{u6570}{u53CA}{u5176}{u5E94}{u7528}&searchscope=1&SORT=D&27%2C27%2C)
 
 
 线性代数方面一些有用的在线计算程序：
