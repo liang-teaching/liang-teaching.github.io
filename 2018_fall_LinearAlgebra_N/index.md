@@ -36,8 +36,8 @@ title: 线性代数（3学分，外招）
 
 |        |    周次    | 01 | 02 | 03 |	04 | 05 | 06 |07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | 15 |  |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
-|	| __作业__ 	|	<a href="HW/HW_01_2018_NM.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   | 	| 	 	|	 	|	   |  |  | || || || | | |
-|	| __解答__ 	|      |    |       |       |      |  |  | || || || | | |
+|	| __作业__ 	|	<a href="HW/HW_01_2018_NM.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   | <a href="HW/HW_02_2018_NM.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 	| 	 	|	 	|	   |  |  | || || || | | |
+|	| __解答__ 	|    <a href="HW/HW_01_sol_2018_NM.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |    |       |       |      |  |  | || || || | | |
 
 ---
 
