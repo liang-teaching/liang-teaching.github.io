@@ -51,11 +51,11 @@ title: 线性代数（3学分，内外招）
 |  | 1.4 克莱姆法则 |  <a href="lectures/1_4_克莱姆法则_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.5 行列式的几何意义 | <a href="lectures/1_5_行列式的几何意义_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.6 行列式的公式表示 |  <a href="lectures/1_6_行列式的公式表示_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |     |
-|  | 2.1 矩阵的概念 |   |     |
-|  | 2.2 矩阵的运算 |      |     |
-|  | 2.3 特殊矩阵 |      |     |
-|  | 2.4 逆矩阵 | |        |
-|  | 2.5 分块矩阵 |    |       |
+|  | 2.1 矩阵的概念 | <a href="lectures/2_1_矩阵的概念_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |     |
+|  | 2.2 矩阵的运算 | <a href="lectures/2_2_矩阵的运算_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 2.3 特殊矩阵 | <a href="lectures/2_3_特殊矩阵_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 2.4 逆矩阵 | | <a href="lectures/2_4_逆矩阵_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>       |
+|  | 2.5 分块矩阵 | <a href="lectures/2_5_分块矩阵_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |       |
 |  | 2.6 矩阵的初等变换 |      |     |
 |  | 2.7 矩阵的秩 |   |         |
 |  | 3.1 线性方程组的消元解法 |    |         |
