@@ -36,7 +36,7 @@ title: 线性代数（3学分，内外招）
 |        |    周次    | 01 | 02 | 03 |	04 | 05 | 06 |07 | 08 | 09 | 10 | 11 | 12 | 13 | 14 | |
 |:--------:|--------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |	| __作业__ 	| <a href="HW/HW_01_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	  | <a href="HW/HW_02_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	<a href="HW/HW_03_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |	|	 |  |  | |  |  | | || | |
-|	| __解答__ 	| <a href="HW/HW_01_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |<a href="HW/HW_02_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |   |   |    |  |  | |  |  | | || | |
+|	| __解答__ 	| <a href="HW_sol/HW_01_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |<a href="HW_sol/HW_02_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_03_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |   |    |  |  | |  |  | | || | |
 
 ---
 
