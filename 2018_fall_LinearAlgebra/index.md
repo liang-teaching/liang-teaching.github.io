@@ -61,9 +61,9 @@ title: 线性代数（3学分，内外招）
 |  | 2.7 矩阵的秩 | <a href="lectures/2_7_矩阵的秩_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |         |
 |  | 3.1 线性方程组的消元解法 | <a href="lectures/3_1_线性方程组的消元解法_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |         |
 |  | 3.2 向量与向量组的线性组合 | <a href="lectures/3_2_向量与向量组的线性组合_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |        |
-|  | 3.3 向量组的线性相关性 |    |           |
-|  | 3.4 向量组的秩 |   |         |
-|  | 3.5 线性方程组解的结构 | |          |
+|  | 3.3 向量组的线性相关性 |   <a href="lectures/3_3_向量组的线性相关性_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |           |
+|  | 3.4 向量组的秩 |  <a href="lectures/3_4_向量组的秩_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |         |
+|  | 3.5 线性方程组解的结构 | <a href="lectures/3_5_线性方程组解的结构_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |          |
 |  | 4.1 矩阵的特征值与特征向量 |     |        |
 |  | 4.2 相似矩阵与矩阵对角化 ||     |
 |  | 4.3 实对称矩阵的特征值和特征向量 |     |     |
