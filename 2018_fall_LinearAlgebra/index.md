@@ -40,7 +40,7 @@ title: 线性代数（3学分，内外招）
 |	| __解答__ 	| <a href="HW_sol/HW_01_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |<a href="HW_sol/HW_02_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | <a href="HW_sol/HW_03_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  <a href="HW_sol/HW_04_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  放假  |<a href="HW_sol/HW_06_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |<a href="HW_sol/HW_07_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | |  |  | | || | |
 
 - 每周小测成绩： <a href="HW_sol/HW_07_sol_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
-    感谢张立凡同学的评改！
+    感谢张立凡同学的评改
 
 ---
 
