@@ -66,9 +66,9 @@ title: 线性代数（3学分，内外招）
 |  | 3.3 向量组的线性相关性 |   <a href="lectures/3_3_向量组的线性相关性_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |           |
 |  | 3.4 向量组的秩 |  <a href="lectures/3_4_向量组的秩_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |         |
 |  | 3.5 线性方程组解的结构 | <a href="lectures/3_5_线性方程组解的结构_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |          |
-|  | 4.1 矩阵的特征值与特征向量 |     |        |
-|  | 4.2 相似矩阵与矩阵对角化 ||     |
-|  | 4.3 实对称矩阵的特征值和特征向量 |     |     |
+|  | 4.1 矩阵的特征值与特征向量 | <a href="lectures/4_1_矩阵的特征值与特征向量_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |        |
+|  | 4.2 相似矩阵与矩阵对角化 |<a href="lectures/4_2_相似矩阵与矩阵对角化_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |     |
+|  | 4.3 实对称矩阵的特征值和特征向量 | <a href="lectures/4_3_实对称矩阵的特征值和特征向量_2018.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |     |
 |  | 5.1 二次型与对称矩阵 |    |         |
 |  | 5.2 二次型与对称矩阵的正定性 |      |     |
 
