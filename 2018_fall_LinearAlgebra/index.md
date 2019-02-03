@@ -27,6 +27,7 @@ title: 线性代数（3学分，内外招）
 
 ### 通告
 
+- 期末考试卷面成绩第一名是袁子晴同学（94分）！
 - 期末考试A卷答案：<a href="HW_sol/Exam_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 12月12日课堂练习 <a href="HW/Exercise_20181212.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 在小测答题纸上写上你的“昵称”。小测成绩将在网上公布，显示内容是你的昵称及成绩（真实姓名隐去）。
