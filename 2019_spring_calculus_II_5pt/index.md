@@ -84,8 +84,7 @@ title: 高等数学II（5学分）
 在线计算器
 
 - [Web 2.0 Calc](http://web2.0calc.com/)
-- [3D Function Grapher](http://www.flashandmath.com/mathlets/multicalc/fungraph3d/fun_graph3d_white.html)
-- [Contour Diagram Grapher](http://www.flashandmath.com/mathlets/multicalc/contours/combo.html)
+- [CalcPlot3D](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
 
 Misc
 
