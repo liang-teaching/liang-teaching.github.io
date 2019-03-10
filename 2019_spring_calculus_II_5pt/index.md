@@ -50,7 +50,7 @@ title: 高等数学II（5学分）
 |  | 7.3 可降阶微分方程 |  <a href="lectures/07_c_可降阶微分方程_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |      | |
 |  | 7.4 二阶线性微分方程 | <a href="lectures/07_d_二阶线性微分方程_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |       | |
 |  | 8.1 向量的基本概念 | <a href="lectures/08_a_向量的基本概念_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 8.2 平面及其方程 |  | <a href="lectures/08_b_平面及其方程_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |      |
+|  | 8.2 平面及其方程 |<a href="lectures/08_b_平面及其方程_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |     |      |
 |  | 8.3 空间直线及其方程 |  |      |      |
 |  | 8.4 空间曲面及曲线 |     |      | |
 |  | 9.1 多元函数的基本概念 |  |      |      |
