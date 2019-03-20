@@ -83,10 +83,13 @@ title: 高等数学II（5学分）
 
 ### 素材
 
-在线计算器
+在线计算/画图器
 
 - [Web 2.0 Calc](http://web2.0calc.com/)
 - [CalcPlot3D](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
+- [Parametric Curves in 3D](https://christopherchudzicki.github.io/MathBox-Demos/parametric_curves_3D.html)
+- [Parametric Surfaces in 3D](https://christopherchudzicki.github.io/MathBox-Demos/parametric_surfaces_3D.html)
+
 
 Misc
 
