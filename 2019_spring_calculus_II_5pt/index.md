@@ -87,8 +87,7 @@ title: 高等数学II（5学分）
 
 - [Web 2.0 Calc](http://web2.0calc.com/)
 - [CalcPlot3D](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
-- [Parametric Curves in 3D](https://christopherchudzicki.github.io/MathBox-Demos/parametric_curves_3D.html)
-- [Parametric Surfaces in 3D](https://christopherchudzicki.github.io/MathBox-Demos/parametric_surfaces_3D.html)
+- [Math3D](https://www.math3d.org/)
 
 
 Misc
