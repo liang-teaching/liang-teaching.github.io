@@ -56,7 +56,7 @@ title: 高等数学II（5学分）
 |  | 9.1 多元函数的基本概念 | <a href="lectures/09_a_多元函数的基本概念_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 9.2 偏导数与全微分 | <a href="lectures/09_b_偏导数与全微分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 9.3 多元复合函数的求导法则 | <a href="lectures/09_c_多元复合函数的求导法则_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 9.4 隐函数的求导公式 |  |      |      |
+|  | 9.4 隐函数的求导公式 | <a href="lectures/09_d_隐函数的求导公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 9.5 方向导数与梯度 |  |      |      |
 |  | 9.6 多元函数微分学的几何应用 | |      |      |
 |  | 9.7 多元函数的极值 | |      |      |
