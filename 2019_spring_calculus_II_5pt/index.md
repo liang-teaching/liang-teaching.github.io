@@ -58,8 +58,8 @@ title: 高等数学II（5学分）
 |  | 9.3 多元复合函数的求导法则 | <a href="lectures/09_c_多元复合函数的求导法则_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 9.4 隐函数的求导公式 | <a href="lectures/09_d_隐函数的求导公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 9.5 方向导数与梯度 |  |      |      |
-|  | 9.6 多元函数微分学的几何应用 | |      |      |
-|  | 9.7 多元函数的极值 | |      |      |
+|  | 9.6 多元函数微分学的几何应用 | <a href="lectures/09_f_多元函数微分学的几何应用_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>|      |      |
+|  | 9.7 多元函数的极值 |<a href="lectures/09_g_多元函数的极值_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 10.1 重积分的概念和性质 |  |      |      |
 |  | 10.2 二重积分的计算 | |      |      |
 |  | 10.3 三重积分 | |      |      |
