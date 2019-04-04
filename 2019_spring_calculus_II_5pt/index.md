@@ -60,15 +60,15 @@ title: 高等数学II（5学分）
 |  | 9.5 方向导数与梯度 |  |      |      |
 |  | 9.6 多元函数微分学的几何应用 | <a href="lectures/09_f_多元函数微分学的几何应用_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>|      |      |
 |  | 9.7 多元函数的极值 |<a href="lectures/09_g_多元函数的极值_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 10.1 重积分的概念和性质 |  |      |      |
-|  | 10.2 二重积分的计算 | |      |      |
-|  | 10.3 三重积分 | |      |      |
-|  | 11.1 对弧长的曲线积分 | |      |      |
-|  | 11.2 对坐标的曲线积分 |  |      |      |
-|  | 11.3 积分路径，格林公式 |  |      |      |
-|  | 11.4 对面积的曲面积分 |  |      |      |
-|  | 11.5 对坐标的曲面积分 |  |      |      |
-|  | 11.6 高斯公式、斯托克斯公式 |  |      |      |
+|  | 10.1 重积分的概念和性质 | <a href="lectures/10_a_重积分的概念和性质_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |      |      |
+|  | 10.2 二重积分的计算 | <a href="lectures/10_b_二重积分的计算_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 10.3 三重积分 | <a href="lectures/10_c_三重积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.1 对弧长的曲线积分 | <a href="lectures/11_a_对弧长的曲线积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.2 对坐标的曲线积分 | <a href="lectures/11_b_对坐标的曲线积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径，格林公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.4 对面积的曲面积分 | <a href="lectures/11_d_对面积的曲面积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.5 对坐标的曲面积分 | <a href="lectures/11_e_对坐标的曲面积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.6 高斯公式、斯托克斯公式 | <a href="lectures/11_f_高斯公式斯托克斯公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 12.1 常数项级数的概念和性质 |  |      |      |
 |  | 12.2 常数项级数的审敛法 |  |      |      |
 |  | 12.3 幂级数 |  |      |      |
