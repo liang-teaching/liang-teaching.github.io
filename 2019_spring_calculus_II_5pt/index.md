@@ -36,7 +36,7 @@ title: 高等数学II（5学分）
 |	| __作业__ 	| <a href="HW/HW_高等数学II_第01周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |<a href="HW/HW_高等数学II_第02周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |<a href="HW/HW_高等数学II_第03周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	| <a href="HW/HW_高等数学II_第04周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	|<a href="HW/HW_高等数学II_第05周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	 | <a href="HW/HW_高等数学II_第06周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |  | | |  |   |  |  |  | |
 |	| __解答__ 	| <a href="HW_sol/HW_高等数学II_sol_第01周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  | <a href="HW_sol/HW_高等数学II_sol_第02周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>  |  <a href="HW_sol/HW_高等数学II_sol_第03周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  <a href="HW_sol/HW_高等数学II_sol_第04周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    |  <a href="HW_sol/HW_高等数学II_sol_第05周.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  | |  |  |  |  | | | | |
 
-- 每周小测成绩： <a href="Score/05_Cal_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    感谢张立凡同学的批改！
+- 每周小测成绩： <a href="Score/06_Cal_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    感谢张立凡同学的批改！
 
 ---
 
