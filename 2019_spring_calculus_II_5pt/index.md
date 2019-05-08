@@ -66,7 +66,7 @@ title: 高等数学II（5学分）
 |  | 10.3 三重积分 | <a href="lectures/10_c_三重积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.1 对弧长的曲线积分 | <a href="lectures/11_a_对弧长的曲线积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.2 对坐标的曲线积分 | <a href="lectures/11_b_对坐标的曲线积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
-|  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径，格林公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
+|  | 11.3 积分路径，格林公式 |  <a href="lectures/11_c_积分路径_格林公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.4 对面积的曲面积分 | <a href="lectures/11_d_对面积的曲面积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.5 对坐标的曲面积分 | <a href="lectures/11_e_对坐标的曲面积分_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
 |  | 11.6 高斯公式、斯托克斯公式 | <a href="lectures/11_f_高斯公式斯托克斯公式_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> |      |      |
