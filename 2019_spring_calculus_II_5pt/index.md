@@ -92,6 +92,10 @@ title: 高等数学II（5学分）
 - [CalcPlot3D](https://www.monroecc.edu/faculty/paulseeburger/calcnsf/CalcPlot3D/)
 - [Math3D](https://www.math3d.org/)
 
+参考书籍
+
+- 谢惠民, 恽自求, 易法槐, 钱定边. 数学分析习题课讲义（第2版）（下册）. 北京: 高等教育出版社, 2019.
+
 
 Misc
 
