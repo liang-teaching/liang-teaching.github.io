@@ -14,6 +14,7 @@ title: 高等数学II（5学分）
 ### 通告
 
 
+- 考试
 - 课件11.3在2019/5/17做了较大的修改
 - 第9周课堂练习答案 <a href="HW_sol/1617.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 第2周周一开始，第一节课前5-10分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。请打印小测的 **答题纸**  <a href="HW/Examsheet.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。记得每周带该答题纸上课。在小测答题纸上写上你的“昵称”。小测成绩将在网上公布，显示内容是你的昵称及成绩（真实姓名隐去）。
