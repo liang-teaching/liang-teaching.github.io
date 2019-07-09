@@ -14,6 +14,7 @@ title: 高等数学II（5学分）
 ### 通告
 
 
+- 考试题部分解答 <a href="HW_sol/2019a.jpg" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> <a href="HW_sol/2019b.jpg" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 注意考试时间、地点
 - 课件11.3在2019/5/17做了较大的修改
 - 第9周课堂练习答案 <a href="HW_sol/1617.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
