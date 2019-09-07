@@ -39,7 +39,7 @@ title: 线性代数（3学分，内招）
 |	| __作业__ 	| <a href="HW/HW_01_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>	  |<a href="HW/HW_02_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> | |	 | |  | | |  |   |  |  | |
 |	| __解答__ 	|  <a href="HW_sol/HW_01_sol_2019.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>   |  |    |     |    |   |  |  | |   |  |  |  |  | |
 
-- 每周小测成绩： <a href="HW_sol/LA_score_w15_v2.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    
+- 每周小测成绩： <a href="HW_sol/Cal_score_w02.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>    
 
 ---
 
