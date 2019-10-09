@@ -27,6 +27,7 @@ title: 高等数学（5学分，内外招）
 
 ### 通告
 
+- 作业一般在周五左右公布。
 - 在小测答题纸上写上你的“昵称”。小测成绩将在网上公布，显示内容是你的昵称及成绩（真实姓名隐去）。
 - 第8周开始，第一节课前5分钟为小测。小测有1~2题，题目在前一周的作业里挑选。小测将进行评分。请打印小测的 *答题纸*  <a href="HW/Examsheet.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 。记得每周带该答题纸上课。
 
@@ -49,7 +50,7 @@ title: 高等数学（5学分，内外招）
 |  | 1.1 函数 | <a href="lectures/01_a_函数.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.2 极限 | <a href="lectures/01_b_极限.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.3 连续函数 | <a href="lectures/01_c_连续函数.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-
+|  | 2.1 导数 | <a href="lectures/02_a_导数.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
 
 ---
