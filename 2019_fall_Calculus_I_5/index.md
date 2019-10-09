@@ -51,6 +51,7 @@ title: 高等数学（5学分，内外招）
 |  | 1.2 极限 | <a href="lectures/01_b_极限.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 1.3 连续函数 | <a href="lectures/01_c_连续函数.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 2.1 导数 | <a href="lectures/02_a_导数.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+
 注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
 
 ---
