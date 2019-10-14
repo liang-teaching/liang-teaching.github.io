@@ -62,9 +62,9 @@ title: 高等数学（5学分，内外招）
 |  | 4.3 分部积分法| <a href="lectures/04_c_分部积分法.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 4.4 有理函数的积分| <a href="lectures/04_d_有理函数的积分.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 5.1 定积分的概念与性质| <a href="lectures/05_a_定积分的概念与性质.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-|  | 5.2 定积分的概念与性质| <a href="lectures/05_b_ 微积分基本定理.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 5.2 微积分基本定理| <a href="lectures/05_b_微积分基本定理.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 5.3 定积分换元与分部积分法 | <a href="lectures/05_c_定积分的换元积分法与分部积分法.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
-|  | 5.4 定积分换元与分部积分法 | <a href="lectures/05_d_ 反常积分.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 5.4 反常积分 | <a href="lectures/05_d_ 反常积分.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 5.5 定积分的几何应用 |    |     |
 
 注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
