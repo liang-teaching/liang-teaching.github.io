@@ -57,6 +57,10 @@ title: 高等数学（5学分，内外招）
 |  | 3.4 单调性与凹凸性 | <a href="lectures/03_d_单调性与凹凸性.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 3.5 极值与最值 | <a href="lectures/03_e_极值与最值.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 |  | 3.6 函数图形的描绘 | <a href="lectures/03_f_函数图形的描绘.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 4.1 不定积分的概念与性质| <a href="lectures/04_a_不定积分的概念与性质.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 4.2 换元积分法| <a href="lectures/04_b_换元积分法.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 4.3 分部积分法| <a href="lectures/04_c_分部积分法.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
+|  | 4.4 有理函数的积分| <a href="lectures/04_d_有理函数的积分.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>     |     |
 
 注：欢迎指出课件的错误。课件更新后，直接覆盖旧的文件，不另作通知。
 
