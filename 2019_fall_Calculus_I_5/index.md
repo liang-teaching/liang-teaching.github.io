@@ -42,7 +42,7 @@ title: 高等数学（5学分，内外招）
 - 第7周 习题 1-1: 1, 2(2,3), 9, 11(1), 12; 习题 1-2: 2, 3, 5(1,2); 习题 1-3: 2, 3, 5(3), 8; 习题 1-5: 1(1,3,5,7,9,11,13). 
 
 
-- 每周小测成绩：  <a href="HW_sol/Cal_score_w09.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
+- 每周小测成绩：  <a href="HW_sol/Cal_score_w10.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
 
 ---
 
