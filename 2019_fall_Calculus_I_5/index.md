@@ -84,13 +84,11 @@ title: 高等数学（5学分，内外招）
 - 谢惠民 等. 数学分析习题课讲义（第2版）（上册）. 北京: 高等教育出版社, 2018.11.
 
 
-在线作图（一元函数）：
+在线计算：
 
-- [desmos](https://www.desmos.com/calculator)
-
-在线计算器：
-
-- [desmos Scientific Calculator](https://www.desmos.com/scientific)
+- 在线作图（一元函数）：[desmos](https://www.desmos.com/calculator)
+- 在线计算器：[desmos Scientific Calculator](https://www.desmos.com/scientific)
+- 在线积分：[integral calculator](https://www.integral-calculator.com/)
 
 Misc
 
