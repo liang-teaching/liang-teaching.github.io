@@ -27,6 +27,8 @@ title: 高等数学（5学分，内外招）
 
 ### 通告
 
+
+- 第17周课堂练习 <a href="HW/w17.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 第13周课堂练习（不定积分） <a href="HW/w13_indefinite_integral_ex.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 作业一般在周五左右公布。
 - 在小测答题纸上写上你的“昵称”。小测成绩将在网上公布，显示内容是你的昵称及成绩（真实姓名隐去）。
