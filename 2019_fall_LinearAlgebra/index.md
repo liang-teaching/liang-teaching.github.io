@@ -27,7 +27,7 @@ title: 线性代数（3学分，内招）
 
 ### 通告
 
-
+- 期末考试的卷面成绩最高是：深海哥（98）。参考答案： <a href="HW_sol/solution.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a> 
 - 15周课堂练习 <a href="HW/sample2.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - ChoIng和81786的附加题下节课来拿。
 - 在小测答题纸上写上你的“昵称”。小测成绩将在网上公布，显示内容是你的昵称及成绩（真实姓名隐去）。
