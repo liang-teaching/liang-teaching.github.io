@@ -27,7 +27,8 @@ title: 高等数学（5学分，内外招）
 
 ### 通告
 
-- 考试参考答案 <a href="HW_sol/exam_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>（内招）
+
+- 期末考试卷面成绩最高分是 小人打小贼（95）. 考试参考答案 <a href="HW_sol/exam_sol.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>（内招）
 - 第17周课堂练习 <a href="HW/w17.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 第13周课堂练习（不定积分） <a href="HW/w13_indefinite_integral_ex.pdf" target="_blank"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 - 作业一般在周五左右公布。
